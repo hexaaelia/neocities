@@ -21,6 +21,7 @@
         <li class="list">Assistance from [anonymous].</li>
         <li class="list">Anti-AI features by <a target="_blank" href="https://forge.hackers.town/hackers.town/nepenthes">Nepenthes.</a></li>
         <li class="list">Art by
+            <a href="https://bsky.app/profile/fluffdrgn.casa">Reykreyth Skye</a>,
             <a target="_blank" href="https://www.deviantart.com/battleaxebunny/gallery/65587238/2018-art">BattleAxeBunny</a> and
             <a target="_blank" href="https://www.furaffinity.net/user/daikanu/">Daikanu</a> (Warning, NSFW)
         </li>

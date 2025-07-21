@@ -13,7 +13,7 @@
       Howdy.
       </h1>
       <table class="content-box-generic-table portrait_table" align="left" width="200">
-        <tr><th colspan="2"><img alt="TODO" align="left" class="portrait" src="_assets/dom_kiss_pfp.jpg" width="196" height="196"></th></tr>
+        <tr><th colspan="2"><img alt="TODO" align="left" class="portrait" src="_assets/reykreyth_pfp_0.jpg" width="196" height="196"></th></tr>
         <th colspan="2">STATS</th>
         <tr><th colspan="2">CLASS: ART/MAG</th></tr>
         <tr>
@@ -68,7 +68,7 @@
       </table>
         I'm Hex (<b class="inline-aside">She/It</b> <img alt="Transgender" src="/_assets/trans_flag.jpg" style="height:10px">
         <img alt="Therian" style="height:14px" src="_assets/theta-delta.png">),
-        a dragons on the internet! (though I'm using my rabbit sona as the current profile image here.)
+        a dragons on the internet!
         This is (what I hope to be) my unified thingsplace.
         <br>
       <p>I intend for this to be a jumping board to my nonsense, a place for me to dump things I deem not good enough for "the real places", 
