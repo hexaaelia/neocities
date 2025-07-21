@@ -1,5 +1,5 @@
 # Entry \#6 - Change
-## 5/25/25-6/??/25
+## 5/25/25-6/21/25
 I've never been good at change.
 
 In all likelihood stemmed from a combination autism, self-doubt and history. Change tends to place me in a worse position than before. Losing things, friends, pieces of myself, whole selves. Often when change is for the better, it is still accompanied by tremendous pain. Having the wonderful friends I have now is a fantastic change, and losing the things previously holding me back was a victory, but it came alongside months of injury and soul-sucking madness as I retread those first few steps of relationships.
