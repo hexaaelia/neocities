@@ -11,4 +11,4 @@ As I write, the clouds swirl overhead. I watch them with a sort of admiration. A
 
 Is it true that one defines another? That without pain there would be no solace, and no solace without pain? I am unsure of this. That's a deeply terrifying thought, if you break it down to its core pieces. But it is a useful piece of pragmatism. This too, will pass. The moments you share with those you love, the tears you shed fearing for the little you have left. Soon it will blow away. The memories gone, atomized. The pain a mere scar on the psyche. 
 
-It will never stop. But, please. For just a few fleeting moments, just let me happy. watching the clouds go by.
+It will never stop. But, please. For just a few fleeting moments, just let me have my joy, watching the clouds go by.
