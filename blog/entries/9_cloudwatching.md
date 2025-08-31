@@ -1,4 +1,4 @@
-# Entry \9 - cloudwatching
+# Entry \#9 - cloudwatching
 ## 8/30/25
 
 I wonder what the ratio is, between the happy moments and the sad ones.
