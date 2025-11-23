@@ -1,4 +1,4 @@
-# Entry 7 - Change
+# Entry 10 - Continuance
 ## 11/22/25
 
 *The sky alight for a single moment.*
