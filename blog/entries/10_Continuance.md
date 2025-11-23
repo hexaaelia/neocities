@@ -51,4 +51,4 @@ It is all I can do. To many more of these. To much more of this. I hope and pray
 
 But since I met you.
 
-Don't want to die no more.
+I Don't want to die no more.
