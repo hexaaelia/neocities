@@ -1,6 +1,10 @@
 # Entry 10 - Continuance
 ## 11/22/25
 
+Note: Originally written as blog 10. Wasn't up to my usual standards, so it goes here.
+
+------
+
 *The sky alight for a single moment.*
 
 *A streak across the sky.*

@@ -13,13 +13,23 @@
     <p><a href="/creation/writings/">back to landing</a></p>
     <br>
     <?php
+        require __DIR__ . '/../../vendor/autoload.php';
+        use Michelf\MarkdownExtra;
+
         $requested = $_GET["story"];
         $file = file_get_contents("stories/" . $requested);
         if (!$file) {
             echo "<p>No story exists under this name: $requested.</p>";
         }
         else {
-            echo "$file";
+            switch (pathinfo("stories/$requested", PATHINFO_EXTENSION)) {
+                case 'html':
+                    echo "$file";
+                    break;
+                case 'md':
+                    echo MarkdownExtra::defaultTransform($file);
+                    break;
+            }
 
             echo "<br><p><a href='/creation/writings/'>back to landing</a></p>";
         }
