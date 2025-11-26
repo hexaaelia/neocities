@@ -17,6 +17,57 @@
     <p>Words, unfortunately, have power. They are an incredibly efficient and direct way to express oneself. I attempt to exploit them for this purpose, to the best of my abilities.</p>
     <p>Most of my smaller and heat-of-the-moment writings will be placed within the <a href="/blog/">Blog</a> section. In all liklihood that is where the majority of the writings
     on this website will end up. However, there will be some added here, as i complete or retire larger projects, or add stuff to the Forever Archive.</p>
+    <div class="content-box-generic" style="background-image:url('/_assets/darkness.jpg');background-size:cover;background-position: left top;">
+        <h1><a href="story.php?story=FinalBoss.md">
+                FinalBoss
+            </a></h1>
+        <br><br>
+        <div class="content-box-transparent" >
+            <p>
+                Do you remember me?
+            </p>
+            <table class="content-box-generic-table" style="width: 100%">
+                <tr>
+                    <th width="125">status</th>
+                    <td>Writing Prompt</td>
+                </tr>
+                <tr>
+                    <th width="125">Date Started</th>
+                    <td>9/17/25</td>
+                </tr>
+                <tr>
+                    <th>time to read</th>
+                    <td>20 minutes</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="content-box-generic" style="background-image:url('/_assets/forest.jpg');background-size:cover;background-position: left top;">
+        <h1><a href="story.php?story=Shopkeep.md">
+                Shopkeep
+            </a></h1>
+        <br><br>
+        <div class="content-box-transparent">
+            <p>
+                Something written for a writing prompt. A gay, positive reflection into my own psyche. A story filled with
+                "Fluffy gay ass bullshit" as I described it. I like it a lot.
+            </p>
+            <table class="content-box-generic-table" style="width: 100%">
+                <tr>
+                    <th width="125">status</th>
+                    <td>Writing Prompt</td>
+                </tr>
+                <tr>
+                    <th width="125">Date Started</th>
+                    <td>9/22/25</td>
+                </tr>
+                <tr>
+                    <th>time to read</th>
+                    <td>20 minutes</td>
+                </tr>
+            </table>
+        </div>
+    </div>
     <div class="content-box-generic" style="background-image:url('/_assets/hunter.jpg');background-size:cover;background-position: left top;">
         <h1><a href="story.php?story=dav.html">
             DEAR ALYX VANCE
@@ -124,6 +175,8 @@
             </table>
         </div>
     </div>
+    <p>credit: background image for "Shopkeep" by <a href="https://www.flickr.com/photos/14922165@N00/8847022426">Nicholas_T</a>,
+    "Finalboss" by <a href="https://www.flickr.com/photos/38446022@N00/4007497950">floodllama</a></p>
 </div>
 </body>
 </html>

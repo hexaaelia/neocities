@@ -25,6 +25,8 @@
             <a target="_blank" href="https://www.deviantart.com/battleaxebunny/gallery/65587238/2018-art">BattleAxeBunny</a> and
             <a target="_blank" href="https://www.furaffinity.net/user/daikanu/">Daikanu</a> (Warning, NSFW)
         </li>
+        <li class="list">background image for "Shopkeep" on Writings by <a href="https://www.flickr.com/photos/14922165@N00/8847022426">Nicholas_T</a></li>
+        <li class="list">background image for "Finalboss" on Writings by <a href="https://www.flickr.com/photos/38446022@N00/4007497950">floodllama</a></li>
     </ul>
     <h2>Thanks</h2>
     <ul>
