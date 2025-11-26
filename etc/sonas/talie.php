@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HEX/HOME</title>
+    <title>HEX/SONAS/TALIE</title>
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link href="talie.css" rel="stylesheet" type="text/css" media="all">
 

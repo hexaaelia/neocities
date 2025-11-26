@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HEX/HOME</title>
+    <title>HEX/GAMES</title>
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link href="/creation/writings/writings_styles.css" rel="stylesheet" type="text/css" media="all">
     <link href="/creation/games/games.css" rel="stylesheet" type="text/css" media="all">

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HEX/HOME</title>
+    <title>HEX/WRITINGS/READ</title>
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
 <!--    <link href="writings_styles.css" rel="stylesheet" type="text/css" media="all">-->
 </head>
