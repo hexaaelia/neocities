@@ -2,6 +2,7 @@
 ## 2/2/2026
 
 Who are you, Hexaaelia Skye?
+
 For someone and something that presents itself as so put together. It might surprise you that I find myself asking this question of myself a lot. Who are you? What is your purpose? Are you put here for some reason? Are you put here just to watch it all unfold?
 
 I am a dragon. A manadragon specifically. I embody the grace of mana, of nature and of the world. At least that's what my species is supposed to be. Can I find purpose in the role my species lays out for me? 
